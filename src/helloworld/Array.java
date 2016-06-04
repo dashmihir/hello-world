@@ -2,6 +2,7 @@ package helloworld;
 
 public class Array {
 public static void main(String[]args){
+	//System.out.println("This is added in gits branch");
 	String name="pinki";
 	String password="wwww";
 	String city="bbsr";
